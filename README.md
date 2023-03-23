@@ -13,8 +13,8 @@ com as interfaces abstratas dos objetos, em vez de se preocupar com as classes c
 
 ## Sobre o projeto
 
-No projeto os pacotes dentro da pasta src com execao do pacote run representam
-as caracteristicas de um abstract factory sendo separadas em 4
+No projeto, os pacotes dentro da pasta src, com exceção do pacote run,
+representam as características de um Abstract Factory, sendo separados em 4
 
 ###
 A interface ComputerComponentFactory define os métodos que serão
